@@ -2,8 +2,12 @@ h1 {
   text-align: center;
 }
 
-h1, h3{
+h1{
   text-decoration: underline;
+}
+
+h3 {
+  color: white
 }
 
 .logo {
@@ -18,8 +22,10 @@ img {
 .house {
   float: left;
   width: 50%;
+  background-color: darkblue;
 }
 
 .during {
   float: right;
+  background-color: tan;
 }
